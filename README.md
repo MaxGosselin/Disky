@@ -1,10 +1,9 @@
 # Disky
 
 A treemapper built with pygame which allows you to visualize your disk usage and navigate through files.
+---
 
-----
-
-###CONTROLS:
+### CONTROLS:
 
 - double click on a tile in the map to open that tile
 - right click on a tile in the map to view it's parent folder.
@@ -12,7 +11,8 @@ A treemapper built with pygame which allows you to visualize your disk usage and
 - single left clicking on the bottom three labels with '->' attached will cause various events as you would expect.
 
 I hope you enjoy using the program as much as I did writing it!
-----
+
+---
 
 Copyright 2015 Max Gosselin
 
